@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f205bca7-d2d1-49a7-b37b-df9c0a7c0586": {
+      "ProjectGuid": "f205bca7-d2d1-49a7-b37b-df9c0a7c0586",
+      "DisplayName": "tarea-mvc",
+      "ColorIndex": 0
+    },
+    "a551f103-67c8-4f53-a8e7-358b99f03021": {
+      "ProjectGuid": "a551f103-67c8-4f53-a8e7-358b99f03021",
+      "DisplayName": "DB",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}

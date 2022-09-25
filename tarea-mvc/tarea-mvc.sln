@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tarea-mvc", "tarea-mvc.csproj", "{F205BCA7-D2D1-49A7-B37B-DF9C0A7C0586}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DB", "..\DB\DB.csproj", "{A551F103-67C8-4F53-A8E7-358B99F03021}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F205BCA7-D2D1-49A7-B37B-DF9C0A7C0586}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F205BCA7-D2D1-49A7-B37B-DF9C0A7C0586}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F205BCA7-D2D1-49A7-B37B-DF9C0A7C0586}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F205BCA7-D2D1-49A7-B37B-DF9C0A7C0586}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A551F103-67C8-4F53-A8E7-358B99F03021}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A551F103-67C8-4F53-A8E7-358B99F03021}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A551F103-67C8-4F53-A8E7-358B99F03021}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A551F103-67C8-4F53-A8E7-358B99F03021}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F7590E6-E4AF-4BC5-A7FD-BC7D1F9CB6C0}
+	EndGlobalSection
+EndGlobal
